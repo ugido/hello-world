@@ -17,4 +17,7 @@ test repository for git gui
 
 [Wie Du Deine eigene Detailansicht erstellst](https://www.8mylez.com/blog/eigene-detailansicht-erstellen/)
 
+[shopware index template](https://github.com/shopware/shopware/blob/5.7/themes/Frontend/Bare/frontend/index/index.tpl)
+
+[Footer blocks ändern](https://forum.shopware.com/t/block-in-footer-hinzufugen-aber-wie/40560)
 []()
