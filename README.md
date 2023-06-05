@@ -31,6 +31,8 @@ https://github.com/pixgarden/seo-check-width-serps/blob/master/Code.gs#L15
 
 https://app.sistrix.com/de/serp-snippet-generator/sl/65f807d4151b8199540b20783875cbec
 
+https://github.com/schickling/calculate-size/blob/master/src/index.ts
+
 
 chatgpt - SEO - googlesheets
 
@@ -41,4 +43,6 @@ https://mintedempire.com/how-to-add-chatgpt-api-gpt-3-5-turbo-into-google-sheets
 https://stackoverflow.com/questions/75401633/update-multiple-cells-in-google-spreadsheet-using-ajax
 
 https://platform.openai.com/playground
+
+
 
